@@ -1,7 +1,7 @@
 # Multiplicacion de Matrices con Verificacion utilizando la funcion de TensorFlow matMul()
 
 
-##Para ejecutar el programa debe ejecutar los siguientes comandos
+## Para ejecutar el programa debe ejecutar los siguientes comandos
 
 
 ### npm install
